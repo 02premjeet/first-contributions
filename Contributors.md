@@ -74,6 +74,7 @@
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
 - Rio
+-  [Premjeet](https://github.com/02premjeet)
 - Megan Cooper (https://github.com/MegRCooper)
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
